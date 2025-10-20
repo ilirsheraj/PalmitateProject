@@ -1,0 +1,1 @@
+This is part of the code used to analyze RNASeq and ATACSeq for palmitate-treated mouse T-Cells. Code is assumed to be run on the main folder "PalimtaeProject", all the paths are assumed accordingly. The code for ATACseq was run on HPC environment, so it is not shown here for the time being.
